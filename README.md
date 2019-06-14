@@ -1,5 +1,5 @@
-Daniel He
-Zena Chang
+- Daniel He
+- Zena Chang
 
 ## Abstract
 
