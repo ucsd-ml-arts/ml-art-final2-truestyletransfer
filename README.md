@@ -1,3 +1,6 @@
+Daniel He
+Zena Chang
+
 ## Abstract
 
 The idea of collaborating with or emulating the masters has been a dream. Of course, not everyone has the opportunity to do so. Even more so when ones favorite artist has passed. It is possible to learn an artist’s style to perform a manual style transfer, but this requires a great deal of practice and dedication. Fortunately, Cycle GAN makes such a dream reachable. Inspired by the collaborations like those done between Dali and Disney[1] , we have decided to do a collaboration with Dali by using Cycle GAN on our own body of work. Using this method, we hope to perform a true style transfer, where one artist provides the subject or content and another adds their stylized artistic execution.
