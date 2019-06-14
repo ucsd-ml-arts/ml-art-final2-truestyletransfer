@@ -10,7 +10,7 @@ The idea of collaborating with or emulating the masters has been a dream. Of cou
 
 ## Code
 
-- Jupyter notebook: 
+- Jupyter notebook: DanToDali.ipynb
 
 ## Results
 
