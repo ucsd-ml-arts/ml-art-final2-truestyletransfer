@@ -9,19 +9,19 @@ The idea of collaborating with or emulating the masters has been a dream. Of cou
 
 - The network model shown in the paper Unpaired Image-to-Image Translation using Cycle Consistent Adversarial Networks is used for the true style transfer. To learn the meaningful mapping between images in our sketchbook and Dali’s body of work, a generator network and a discriminator network are trained jointly on the basis of the fact that the generator learns the way to generate more likely accepted images by the discriminator while the discriminator’s learning to distinguish the original and generated images.
 
-- The data used a collection of Dali's artwork and images from our sketchbook.
+- The data used a collection of Dali's artwork and images from our sketchbook. The images selected from the sketchbook were chosen based on similar features. Dali's artwork was unfiltered to ensure a complete style transfer.
 
 ## Code
 
-- Jupyter notebook: DanToDali.ipynb
+- Jupyter notebook: DanToDali.ipynb : this is the modified Cycle GAN code. Here the file path was changed to use our dataset, which are included in the folders in this github. In addition the main training loop was modified to save every epoch so that videos can be generated using the saved output images.
 
 ## Results
 
-- The results are discussed in detail within the report.
+- The results are discussed in detail within the report. Overall, the results did not fully realize our artistic vision, but still were interesting. 
 
 ## Technical Notes
 
-These were all run on datahub.
+- The jupyter notbook can be run on datahub. Make sure the file paths are correct in order for it to work.
 
 ## Reference
 
